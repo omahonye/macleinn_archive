@@ -1,4 +1,5 @@
 site_name: MacLeinn Archive
+site_url: https://macleinnarchive.com/
 
 theme:
   name: material
