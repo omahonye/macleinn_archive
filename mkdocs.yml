@@ -1,0 +1,13 @@
+site_name: MacLeinn Archive
+
+theme:
+  name: material
+  features:
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
