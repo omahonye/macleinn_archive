@@ -11,3 +11,4 @@ plugins:
 
 nav:
   - Home: index.md
+  - Contact: contact.md
