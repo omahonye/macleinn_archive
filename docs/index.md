@@ -1,4 +1,4 @@
-# Student Archive
+# MacLéinn Archive
 
 Independent, student-run documentation of Students’ Unions across Ireland.
 
