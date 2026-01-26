@@ -13,3 +13,6 @@ plugins:
 nav:
   - Home: index.md
   - Contact: contact.md
+  - UL:
+      - PSU: ul/PSU.md
+      - ULSL: ul/ULSL.md
