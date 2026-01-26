@@ -16,3 +16,5 @@ nav:
   - UL:
       - PSU: ul/PSU.md
       - ULSL: ul/ULSL.md
+  -UG:
+      - CML OnG: ug/CMLONG.md
