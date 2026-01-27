@@ -51,7 +51,8 @@ This record compiles the known executive officers of the Comhaltas na Mac Léinn
 | 1996/97 | Joanne Murphy |
 | 1997/98 | Darren McCallig |
 | 1998/99 | Cormac McCarthy |
-| 1999/01 | Paddy Jordan |
+| 1999/00 | Paddy Jordan |
+| 2000/01 | Paddy Jordan |
 | 2001/02 | Pádraig Ó Duinnín |
 | 2002/03 | Leona Byrne |
 | 2003/04 | Tony McDonnell |
@@ -77,3 +78,93 @@ This record compiles the known executive officers of the Comhaltas na Mac Léinn
 | 2024/25 | Faye Ní Dhomhnaill |
 | 2025/26 | Maisie Hall |
 
+## Vice President Education (2000–)
+
+| Academic Year | VP Education |
+|---|---|
+| 2000/01 |  |
+| 2001/02 |  |
+| 2002/03 |  |
+| 2003/04 |  |
+| 2004/06 |  |
+| 2006/07 |  |
+| 2007/08 |  |
+| 2008/09 |  |
+| 2009/10 |  |
+| 2010/11 |  |
+| 2011/12 |  |
+| 2012/13 |  |
+| 2013/14 |  |
+| 2014/15 |  |
+| 2015/16 |  |
+| 2016/17 | Cathal Sherlock |
+| 2017/18 |  |
+| 2018/19 |  |
+| 2019/20 | Cameron Keighron |
+| 2020/21 |  |
+| 2021/22 |  |
+| 2022/23 |  |
+| 2023/24 | Raimey O’Boyle |
+| 2024/25 | Tom Forde |
+| 2025/26 | Seán de Búrca |
+
+## Vice President Welfare & Equality (2000–)
+
+| Academic Year | VP Welfare |
+|---|---|
+| 2000/01 |  |
+| 2001/02 |  |
+| 2002/03 |  |
+| 2003/04 |  |
+| 2004/06 |  |
+| 2006/07 |  |
+| 2007/08 |  |
+| 2008/09 |  |
+| 2009/10 |  |
+| 2010/11 |  |
+| 2011/12 |  |
+| 2012/13 |  |
+| 2013/14 |  |
+| 2014/15 |  |
+| 2015/16 |  |
+| 2016/17 |  |
+| 2017/18 | Megan Reilly |
+| 2018/19 |  |
+| 2019/20 | Brandon Walsh |
+| 2020/21 |  |
+| 2021/22 |  |
+| 2022/23 |  |
+| 2023/24 | Izzy Tiernan |
+| 2024/25 | Chloe Anderson |
+| 2025/26 | Paddy Marnane |
+
+## Leas-Uachtarán don Ghaeilge (2000–)
+Vice President for the Irish Language
+
+| Academic Year | LU don Ghaeilge |
+|---|---|
+| 2000/01 |  |
+| 2001/02 |  |
+| 2002/03 |  |
+| 2003/04 |  |
+| 2004/06 |  |
+| 2006/07 |  |
+| 2007/08 |  |
+| 2008/09 |  |
+| 2009/10 |  |
+| 2010/11 |  |
+| 2011/12 |  |
+| 2012/13 |  |
+| 2013/14 |  |
+| 2014/15 |  |
+| 2015/16 |  |
+| 2016/17 |  |
+| 2017/18 | Cónall Ó Corra |
+| 2018/19 |  |
+| 2019/20 | Erin Mac an tSaoir |
+| 2020/21 |  |
+| 2021/22 |  |
+| 2022/23 |  |
+| 2023/24 | Faye Ní Dhomhnaill |
+| 2024/25 | Julieanne Ní Mhullaoidh |
+| 2025/26 | Rachel Áine Ní Mharascáil |
