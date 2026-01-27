@@ -1,7 +1,7 @@
 
 # PSU Archive
 
-This site provides a **searchable digital copy of a **historical record of PSU officers**.
+This site provides a searchable digital copy of a **historical record of PSU officers**.
 
 The aim is to preserve these records in an accessible, structured format and to support reference, research, and institutional memory.
 
