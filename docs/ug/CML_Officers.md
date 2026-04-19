@@ -77,6 +77,7 @@ This record compiles the known executive officers of the Comhaltas na Mac Léinn
 | 2023/24 | Dean Kenny |
 | 2024/25 | Faye Ní Dhomhnaill |
 | 2025/26 | Maisie Hall |
+| 2026/27 | Seán de Búrca |
 
 ## Vice President Education (2000–)
 
@@ -107,6 +108,7 @@ This record compiles the known executive officers of the Comhaltas na Mac Léinn
 | 2023/24 | Raimey O’Boyle |
 | 2024/25 | Tom Forde |
 | 2025/26 | Seán de Búrca |
+| 2026/27 | Eimear Burke |
 
 ## Vice President Welfare & Equality (2000–)
 
@@ -137,6 +139,7 @@ This record compiles the known executive officers of the Comhaltas na Mac Léinn
 | 2023/24 | Izzy Tiernan |
 | 2024/25 | Chloe Anderson |
 | 2025/26 | Paddy Marnane |
+| 2026/27 | Molly Hickey |
 
 ## Leas-Uachtarán don Ghaeilge (2000–)
 Vice President for the Irish Language
@@ -168,3 +171,4 @@ Vice President for the Irish Language
 | 2023/24 | Faye Ní Dhomhnaill |
 | 2024/25 | Julieanne Ní Mhullaoidh |
 | 2025/26 | Rachel Áine Ní Mharascáil |
+| 2026/27 | Cathal Ó hÉigeartaigh |
