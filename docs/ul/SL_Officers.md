@@ -70,7 +70,7 @@ This record compiles the known executive officers of the University of Limerick 
 | 2023/24 | Ronan Cahill |
 | 2024/25 | Ronan Cahill |
 | 2025/26 | Síofra Foley |
-
+| 2026/27 | Eva McCormack |
 **Note:** “Formally established as NIHE L SU” around 1975/76; “Change to ULSU” around 1988/89; “Change to ULSL” around 2016/17.
 
 ---
@@ -106,7 +106,7 @@ This record compiles the known executive officers of the University of Limerick 
 | 2023/24 | Emily Rosenkranz |
 | 2024/25 | Síofra Foley |
 | 2025/26 | Orlagh O’Regan |
-
+| 2026/27 | Jared Nadin |
 ---
 
 ### Education / Academic (1999–)
@@ -140,6 +140,7 @@ This record compiles the known executive officers of the University of Limerick 
 | 2023/24 | Ronan Mannix |
 | 2024/25 | Seán Keaney |
 | 2025/26 | Jared Nadin |
+| 2026/27 | Abbie Lappin |
 
 **Note in source:** “Title change to ‘Academic’” around 2015/16.
 
@@ -155,7 +156,7 @@ This record compiles the known executive officers of the University of Limerick 
 | 2023/24 | Katie Martin |
 | 2024/25 | Dervla Ryan |
 | 2025/26 | Dervla Ryan |
-
+| 2026/27 | Cuán Hayes |
 **Note:** “Title change to ‘Diversity & Inclusion’” for 2025/26.
 
 ---
