@@ -171,7 +171,7 @@ This record compiles the known executive officers of the University of Limerick 
 | 2023/24 | Niamh Hickey |
 | 2024/25 | Eoghan O’Mahony (Jun–Dec 2024) // Kye Earle (Dec 2024–Jun 2025) |
 | 2025/26 | Kye Earle |
-
+| 2025/26 | Alan Sieprawski |
 ---
 
 ### Student Council Chairperson
@@ -190,7 +190,7 @@ This record compiles the known executive officers of the University of Limerick 
 | 2023/24 | Emma Wright |
 | 2024/25 | Vacant (Jun–Dec 2024) // Eoghan O’Mahony (Dec 2024–Jun 2025) |
 | 2025/26 | Alexander DeBarra (Jun-Oct 2025) // Nathan Beaumount (Oct 2025 - Jun 2026)|
-
+| 2026/27 | John Boix |
 ---
 
 ## Defunct Roles
