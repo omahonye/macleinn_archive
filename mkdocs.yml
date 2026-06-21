@@ -17,7 +17,7 @@ plugins:
 nav:
   - Home: index.md
   - Contact: contact.md
-    - AMLE:
+  - AMLE:
       - AMLE: amle/amle.md
   - UL:
       - PSU: ul/PSU.md
