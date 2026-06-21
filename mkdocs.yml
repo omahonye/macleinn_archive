@@ -17,8 +17,15 @@ plugins:
 nav:
   - Home: index.md
   - Contact: contact.md
+    - AMLE:
+      - AMLE: amle/amle.md
   - UL:
       - PSU: ul/PSU.md
       - ULSL: ul/ULSL.md
   - UG:
       - CML OnG: ug/CMLONG.md
+  - TCD:
+      - TCD SU / AML CT: tcd/tcdsu.md
+  - UCC:
+      - UCC SU: ucc/uccsu.md
+  
