@@ -1,4 +1,4 @@
-## Trinity College Dublin Students' Union Officer History
+# Trinity College Dublin Students' Union Officer History
 
 A historical listing of Trinity College Dublin Students' Union (Aontas Mac Léinn Choláiste na Tríonóide), often referred to by its abbreviation TCDSU/AMLCT, executive and representative officers from foundation to present.
 
