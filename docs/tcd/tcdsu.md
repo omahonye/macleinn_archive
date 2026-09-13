@@ -143,7 +143,7 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 | 2023/24 | Clara Roche |
 | 2024/25 | Brídín Ní Fhearraigh-Joyce |
 | 2025/26 | Charles Hastings |
-| 2026/27 |  |
+| 2026/27 | Harper Alderson |
 
 ---
 
