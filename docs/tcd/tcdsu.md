@@ -12,22 +12,41 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 
 ## Active Roles
 
-### President (1968–)
+### President
 
 | Academic Year | President |
 |---|---|
-| ... | ... |
+| 2015/16 | Lynn Ruane |
+| 2016/17 | Kieran McNulty |
+| 2017/18 | Kevin Keane |
+| 2018/19 |  |
+| 2019/20 | Laura Beston |
+| 2020/21 | Eoin Hand |
+| 2021/22 | Leah Keogh |
+| 2022/23 | Gabi Fullam |
+| 2023/24 | László Molnárfi |
+| 2024/25 | Jenny Maguire |
+| 2025/26 | Seán Thim O'Leary / Grace McNally |
+| 2026/27 | Amy Kennedy |
 
-**Note:** TCDSU was established in 1968.
 ---
 
-### Education Officer (1968–)
+### Education Officer
 
 | Academic Year | Education Officer |
 |---|---|
-| ... | ... |
-
-**Note:** Also serves as Vice-President of the Union.
+| 2015/16 | Molly Kenny |
+| 2016/17 | Dale Whelehan |
+| 2017/18 | Alice MacPherson |
+| 2018/19 |  |
+| 2019/20 |  |
+| 2020/21 | Megan O'Connor |
+| 2021/22 | Bev Genockey |
+| 2022/23 | Zöe Cummins |
+| 2023/24 | Catherine Arnold |
+| 2024/25 | Eoghan Gilroy |
+| 2025/26 | Buster Whaley |
+| 2026/27 |  |
 
 ---
 
@@ -35,27 +54,56 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 
 | Academic Year | Welfare & Equality Officer |
 |---|---|
-| ... | ... |
+| 2015/16 | Conor Clancy |
+| 2016/17 | Aoibhinn Loughlin |
+| 2017/18 | Damien McClean |
+| 2018/19 |  |
+| 2019/20 |  |
+| 2020/21 | Leah Keogh |
+| 2021/22 | Sierra Mueller-Powens |
+| 2022/23 |  |
+| 2023/24 | Aoife Bennett |
+| 2024/25 | Hamza Bana |
+| 2025/26 | Deirdre Leahy |
+| 2026/27 |  |
 
-**Note:** Previously operated under different welfare and equality structures in various periods. 
 ---
 
 ### Communications & Marketing Officer
 
 | Academic Year | Communications & Marketing Officer |
 |---|---|
-| ... | ... |
+| 2015/16 | Aifric Ní Chriodain |
+| 2016/17 | Glen Byrne |
+| 2017/18 | Úna Harty |
+| 2018/19 | Paraic McLean |
+| 2019/20 | Muireann Kane |
+| 2020/21 | Philly Holmes |
+| 2021/22 | Aoife Cronin |
+| 2022/23 | Julie Smirnova |
+| 2023/24 | Aiesha Wong |
+| 2024/25 | Beth Strahan |
+| 2025/26 | Channing Kehoe |
+| 2026/27 |  |
 
-**Note:** Previously titled Communications Officer in some years.
 ---
 
 ### Ents Officer
 
 | Academic Year | Ents Officer |
 |---|---|
-| ... | ... |
-
-**Note:** Responsible for student entertainment and events.
+| 2015/16 | Katie Cogan |
+| 2016/17 | Padraic Rowley |
+| 2017/18 |  |
+| 2018/19 |  |
+| 2019/20 |  |
+| 2020/21 | Hugh McInerney |
+| 2021/22 | Greg Arrowsmith |
+| 2022/23 |  |
+| 2023/24 | Olivia Orr |
+| 2024/25 | Peadar Walsh |
+| 2025/26 | Orla Norton |
+| 2026/27 |  |
 
 ---
 
@@ -63,8 +111,20 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 
 | Academic Year | Oifigeach na Gaeilge |
 |---|---|
-| ... | ... |
+| 2015/16 |  |
+| 2016/17 |  |
+| 2017/18 |  |
+| 2018/19 |  |
+| 2019/20 |  |
+| 2020/21 |  |
+| 2021/22 |  |
+| 2022/23 |  |
+| 2023/24 | Pádraig Mac Brádaigh |
+| 2024/25 | Pádraig Mac Brádaigh |
+| 2025/26 | Aoife Ní Bhriain |
+| 2026/27 |  |
 
+**Note:** Oifigeach na Gaeilge existed as a part-time position before becoming a full-time sabbatical office for 2024/25.
 
 ---
 
@@ -72,12 +132,20 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 
 | Academic Year | UT Editor |
 |---|---|
-| ... | ... |
-
-**Note:** Editor of The University Times student newspaper. Historically elected by students.
+| 2015/16 | Edmund Heaphy |
+| 2016/17 | Sinéad Baker |
+| 2017/18 |  |
+| 2018/19 |  |
+| 2019/20 |  |
+| 2020/21 |  |
+| 2021/22 | Emer Moreau |
+| 2022/23 | Ailbhe Noonan |
+| 2023/24 | Clara Roche |
+| 2024/25 | Brídín Ní Fhearraigh-Joyce |
+| 2025/26 | Charles Hastings |
+| 2026/27 |  |
 
 ---
-
 
 ## Student Council
 
@@ -85,7 +153,18 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 
 | Academic Year | Council Chair |
 |---|---|
-| ... | ... |
+| 2015/16 |  |
+| 2016/17 |  |
+| 2017/18 | Colm O'Halloran |
+| 2018/19 |  |
+| 2019/20 |  |
+| 2020/21 |  |
+| 2021/22 |  |
+| 2022/23 |  |
+| 2023/24 | Conchúr Ó Cathasaigh |
+| 2024/25 | Daniel Walsh |
+| 2025/26 |  |
+| 2026/27 |  |
 
 ---
 
@@ -93,7 +172,18 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 
 | Academic Year | Electoral Commission Chair |
 |---|---|
-| ... | ... |
+| 2015/16 |  |
+| 2016/17 |  |
+| 2017/18 |  |
+| 2018/19 |  |
+| 2019/20 |  |
+| 2020/21 |  |
+| 2021/22 |  |
+| 2022/23 |  |
+| 2023/24 | Conchúr Ó Cathasaigh |
+| 2024/25 | Daniel Walsh |
+| 2025/26 |  |
+| 2026/27 |  |
 
 ---
 
@@ -101,19 +191,28 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 
 | Academic Year | Oversight Commission Chair |
 |---|---|
-| ... | ... |
+| 2015/16 |  |
+| 2016/17 |  |
+| 2017/18 |  |
+| 2018/19 |  |
+| 2019/20 |  |
+| 2020/21 |  |
+| 2021/22 |  |
+| 2022/23 |  |
+| 2023/24 |  |
+| 2024/25 |  |
+| 2025/26 |  |
+| 2026/27 |  |
 
 ---
 
-## Defunct Roles
+## Defunct / Previous Roles
 
 ### Welfare Officer
 
 | Academic Year | Welfare Officer |
 |---|---|
 | ... | ... |
-
-**Note:** Later merged into Welfare & Equality Officer.
 
 ---
 
@@ -123,8 +222,6 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 |---|---|
 | ... | ... |
 
-**Note:** Later merged into Welfare & Equality Officer.
-
 ---
 
 ### Communications Officer
@@ -133,15 +230,16 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 |---|---|
 | ... | ... |
 
-**Note:** Later retitled Communications & Marketing Officer.
-
 ---
+
 ## Notes
 
 - Years are academic years.
-- Records are based on available documentation.
-- TCDSU was founded in 1968. :contentReference[oaicite:7]{index=7}
-- The union is led by a Sabbatical Board consisting of full-time elected officers. :contentReference[oaicite:8]{index=8}
+- Blank cells represent names still to be established, not necessarily vacant offices.
+- Officer structures and titles have changed throughout the Union's history.
+- Communications & Marketing became a separate officer position in 2015/16.
+- Oifigeach na Gaeilge is now a sabbatical officer position.
+- Further historical names remain to be added.
 - Officer structures and titles have changed throughout the Union's history.
 - Part-time officer positions are elected annually and have expanded significantly over time.
 - Corrections or additions are welcome.
