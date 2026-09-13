@@ -47,6 +47,7 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 | ... | ... |
 
 **Note:** Previously titled Communications Officer in some years.
+---
 
 ### Ents Officer
 
