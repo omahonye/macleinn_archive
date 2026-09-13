@@ -18,8 +18,7 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 |---|---|
 | ... | ... |
 
-**Note:** TCDSU was established in 1968. :contentReference[oaicite:0]{index=0}
-
+**Note:** TCDSU was established in 1968.
 ---
 
 ### Education Officer (1968–)
@@ -28,7 +27,7 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 |---|---|
 | ... | ... |
 
-**Note:** Also serves as Vice-President of the Union. :contentReference[oaicite:1]{index=1}
+**Note:** Also serves as Vice-President of the Union.
 
 ---
 
@@ -38,8 +37,7 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 |---|---|
 | ... | ... |
 
-**Note:** Previously operated under different welfare and equality structures in various periods. :contentReference[oaicite:2]{index=2}
-
+**Note:** Previously operated under different welfare and equality structures in various periods. 
 ---
 
 ### Communications & Marketing Officer
@@ -48,9 +46,7 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 |---|---|
 | ... | ... |
 
-**Note:** Previously titled Communications Officer in some years. :contentReference[oaicite:3]{index=3}
-
----
+**Note:** Previously titled Communications Officer in some years.
 
 ### Ents Officer
 
@@ -58,7 +54,7 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 |---|---|
 | ... | ... |
 
-**Note:** Responsible for student entertainment and events. :contentReference[oaicite:4]{index=4}
+**Note:** Responsible for student entertainment and events.
 
 ---
 
@@ -68,7 +64,6 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 |---|---|
 | ... | ... |
 
-**Note:** Elected separately from the Sabbatical Board. :contentReference[oaicite:5]{index=5}
 
 ---
 
@@ -78,129 +73,10 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 |---|---|
 | ... | ... |
 
-**Note:** Editor of The University Times student newspaper. Historically elected by students. :contentReference[oaicite:6]{index=6}
+**Note:** Editor of The University Times student newspaper. Historically elected by students.
 
 ---
 
-## Part-Time Officers
-
-### LGBT+ Rights Officer
-
-| Academic Year | LGBT+ Rights Officer |
-|---|---|
-| ... | ... |
-
----
-
-### Ethnic Minorities Officer
-
-| Academic Year | Ethnic Minorities Officer |
-|---|---|
-| ... | ... |
-
----
-
-### Disability Rights Officer
-
-| Academic Year | Disability Rights Officer |
-|---|---|
-| ... | ... |
-
----
-
-### International Students Officer
-
-| Academic Year | International Students Officer |
-|---|---|
-| ... | ... |
-
----
-
-### Mature Students Officer
-
-| Academic Year | Mature Students Officer |
-|---|---|
-| ... | ... |
-
----
-
-### Postgraduate Officer
-
-| Academic Year | Postgraduate Officer |
-|---|---|
-| ... | ... |
-
----
-
-### Housing Rights Officer
-
-| Academic Year | Housing Rights Officer |
-|---|---|
-| ... | ... |
-
-**Note:** Established in the 2020s.
-
----
-
-## Academic Representation
-
-### Senior Sophister Convenor
-
-| Academic Year | Officer |
-|---|---|
-| ... | ... |
-
----
-
-### Junior Sophister Convenor
-
-| Academic Year | Officer |
-|---|---|
-| ... | ... |
-
----
-
-### Senior Fresh Convenor
-
-| Academic Year | Officer |
-|---|---|
-| ... | ... |
-
----
-
-### Junior Fresh Convenor
-
-| Academic Year | Officer |
-|---|---|
-| ... | ... |
-
----
-
-### Faculty Convenors
-
-#### Arts, Humanities & Social Sciences
-
-| Academic Year | Convenor |
-|---|---|
-| ... | ... |
-
----
-
-#### STEM
-
-| Academic Year | Convenor |
-|---|---|
-| ... | ... |
-
----
-
-#### Health Sciences
-
-| Academic Year | Convenor |
-|---|---|
-| ... | ... |
-
----
 
 ## Student Council
 
@@ -229,14 +105,6 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 ---
 
 ## Defunct Roles
-
-### Deputy President
-
-| Academic Year | Deputy President |
-|---|---|
-| ... | ... |
-
----
 
 ### Welfare Officer
 
@@ -267,17 +135,6 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 **Note:** Later retitled Communications & Marketing Officer.
 
 ---
-
-### Other Historic Roles
-
-#### [Role Name]
-
-| Academic Year | Officer |
-|---|---|
-| ... | ... |
-
----
-
 ## Notes
 
 - Years are academic years.
