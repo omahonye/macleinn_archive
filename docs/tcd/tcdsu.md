@@ -36,17 +36,17 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 | Academic Year | Education Officer |
 |---|---|
 | 2015/16 | Molly Kenny |
-| 2016/17 | Dale Whelehan |
+| 2016/17 | Dale O'Faoilléacháin |
 | 2017/18 | Alice MacPherson |
-| 2018/19 |  |
-| 2019/20 |  |
+| 2018/19 | Aimee Connolly |
+| 2019/20 | Niamh McCay |
 | 2020/21 | Megan O'Connor |
 | 2021/22 | Bev Genockey |
 | 2022/23 | Zöe Cummins |
 | 2023/24 | Catherine Arnold |
 | 2024/25 | Eoghan Gilroy |
 | 2025/26 | Buster Whaley |
-| 2026/27 |  |
+| 2026/27 | Eve Martin |
 
 ---
 
@@ -55,17 +55,17 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 | Academic Year | Welfare & Equality Officer |
 |---|---|
 | 2015/16 | Conor Clancy |
-| 2016/17 | Aoibhinn Loughlin |
+| 2016/17 | Aoibhinn Ní Lochlainn |
 | 2017/18 | Damien McClean |
-| 2018/19 |  |
-| 2019/20 |  |
+| 2018/19 | James Cunningham |
+| 2019/20 | Aisling Leen |
 | 2020/21 | Leah Keogh |
-| 2021/22 | Sierra Mueller-Powens |
-| 2022/23 |  |
+| 2021/22 | Sierra Mueller-Owens |
+| 2022/23 | Chloe Staunton |
 | 2023/24 | Aoife Bennett |
 | 2024/25 | Hamza Bana |
 | 2025/26 | Deirdre Leahy |
-| 2026/27 |  |
+| 2026/27 | Lorenzo Cheasty |
 
 ---
 
@@ -73,7 +73,7 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 
 | Academic Year | Communications & Marketing Officer |
 |---|---|
-| 2015/16 | Aifric Ní Chriodain |
+| 2015/16 | Aifric Ní Chríodáin |
 | 2016/17 | Glen Byrne |
 | 2017/18 | Úna Harty |
 | 2018/19 | Paraic McLean |
@@ -84,7 +84,7 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 | 2023/24 | Aiesha Wong |
 | 2024/25 | Beth Strahan |
 | 2025/26 | Channing Kehoe |
-| 2026/27 |  |
+| 2026/27 | Matthew Kurt |
 
 ---
 
@@ -94,16 +94,16 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 |---|---|
 | 2015/16 | Katie Cogan |
 | 2016/17 | Padraic Rowley |
-| 2017/18 |  |
-| 2018/19 |  |
-| 2019/20 |  |
+| 2017/18 | Jonah Craig |
+| 2018/19 | David Flood |
+| 2019/20 | Judith Robinson |
 | 2020/21 | Hugh McInerney |
 | 2021/22 | Greg Arrowsmith |
-| 2022/23 |  |
+| 2022/23 | Max Lynch |
 | 2023/24 | Olivia Orr |
 | 2024/25 | Peadar Walsh |
 | 2025/26 | Orla Norton |
-| 2026/27 |  |
+| 2026/27 | Finn Hallwood |
 
 ---
 
@@ -114,15 +114,15 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 | 2015/16 |  |
 | 2016/17 |  |
 | 2017/18 |  |
-| 2018/19 |  |
-| 2019/20 |  |
-| 2020/21 |  |
-| 2021/22 |  |
-| 2022/23 |  |
+| 2018/19 | Cúnla Morris |
+| 2019/20 | Muireann Nic Corcráin |
+| 2020/21 | Mairéad Ní Sheanlaoich |
+| 2021/22 | Aislinn Ní Dhomhnaill |
+| 2022/23 | Caoimhe Molloy |
 | 2023/24 | Pádraig Mac Brádaigh |
 | 2024/25 | Pádraig Mac Brádaigh |
 | 2025/26 | Aoife Ní Bhriain |
-| 2026/27 |  |
+| 2026/27 | Mary Kate Ní Artáin |
 
 **Note:** Oifigeach na Gaeilge existed as a part-time position before becoming a full-time sabbatical office for 2024/25.
 
@@ -134,15 +134,15 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 |---|---|
 | 2015/16 | Edmund Heaphy |
 | 2016/17 | Sinéad Baker |
-| 2017/18 |  |
-| 2018/19 |  |
-| 2019/20 |  |
-| 2020/21 |  |
+| 2017/18 | Dominic McGrath |
+| 2018/19 | Eleanor O'Mahony |
+| 2019/20 | Donal MacNamee |
+| 2020/21 | Cormac Watson |
 | 2021/22 | Emer Moreau |
 | 2022/23 | Ailbhe Noonan |
 | 2023/24 | Clara Roche |
 | 2024/25 | Brídín Ní Fhearraigh-Joyce |
-| 2025/26 | Charles Hastings |
+| 2025/26 | Charlie Hastings |
 | 2026/27 | Harper Alderson |
 
 ---
@@ -156,15 +156,15 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 | 2015/16 |  |
 | 2016/17 |  |
 | 2017/18 | Colm O'Halloran |
-| 2018/19 |  |
-| 2019/20 |  |
-| 2020/21 |  |
-| 2021/22 |  |
+| 2018/19 | Stephen Sheil |
+| 2019/20 | Sadhbh Brennan |
+| 2020/21 | Yannick Gloster |
+| 2021/22 | Emma Rossiter / Adam Balchin |
 | 2022/23 |  |
-| 2023/24 | Conchúr Ó Cathasaigh |
+| 2023/24 | Conor Casey / Conchúr Ó Cathasaigh |
 | 2024/25 | Daniel Walsh |
-| 2025/26 |  |
-| 2026/27 |  |
+| 2025/26 | Bailey Armstrong |
+| 2026/27 | Bailey Armstrong |
 
 ---
 
@@ -172,18 +172,18 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 
 | Academic Year | Electoral Commission Chair |
 |---|---|
-| 2015/16 |  |
+| 2015/16 | Colm O'Halloran |
 | 2016/17 |  |
 | 2017/18 |  |
-| 2018/19 |  |
-| 2019/20 |  |
-| 2020/21 |  |
-| 2021/22 |  |
+| 2018/19 | Stephen Sheil |
+| 2019/20 | Sadhbh Brennan |
+| 2020/21 | Yannick Gloster |
+| 2021/22 | Emma Rossiter / Adam Balchin |
 | 2022/23 |  |
-| 2023/24 | Conchúr Ó Cathasaigh |
+| 2023/24 | Conor Casey / Conchúr Ó Cathasaigh |
 | 2024/25 | Daniel Walsh |
-| 2025/26 |  |
-| 2026/27 |  |
+| 2025/26 | Bailey Armstrong |
+| 2026/27 | Bailey Armstrong |
 
 ---
 
@@ -201,8 +201,8 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 | 2022/23 |  |
 | 2023/24 |  |
 | 2024/25 |  |
-| 2025/26 |  |
-| 2026/27 |  |
+| 2025/26 | Aaron Groome |
+| 2026/27 | Amy Cawley |
 
 ---
 
