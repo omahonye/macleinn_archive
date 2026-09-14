@@ -383,15 +383,24 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 
 | Academic Year | Council Chair |
 |---|---|
-| 2015/16 |  |
-| 2016/17 |  |
-| 2017/18 | Colm O'Halloran |
+| 2006/07 | John Tracey |
+| 2007/08 | |
+| 2008/09 | |
+| 2009/10 | |
+| 2010/11 | |
+| 2011/12 | |
+| 2012/13 | Jillian Harpur |
+| 2013/14 | |
+| 2014/15 | Kieran McNulty |
+| 2015/16 | Colm O’Halloran |
+| 2016/17 | Jenna Clarke Molloy |
+| 2017/18 | |
 | 2018/19 | Stephen Sheil |
 | 2019/20 | Sadhbh Brennan |
 | 2020/21 | Yannick Gloster |
 | 2021/22 | Emma Rossiter / Adam Balchin |
-| 2022/23 |  |
-| 2023/24 | Conor Casey / Conchúr Ó Cathasaigh |
+| 2022/23 | Emma Gallagher |
+| 2023/24 | Conchúr Ó Cathasaigh |
 | 2024/25 | Daniel Walsh |
 | 2025/26 | Bailey Armstrong |
 | 2026/27 | Bailey Armstrong |
