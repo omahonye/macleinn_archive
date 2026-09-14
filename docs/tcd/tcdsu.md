@@ -16,10 +16,69 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 
 | Academic Year | President |
 |---|---|
+| 1956/57 | Robert Curwen Barton |
+| 1957/58 |  |
+| 1958/59 |  |
+| 1959/60 |  |
+| 1960/61 |  |
+| 1961/62 | David Butler |
+| 1962/63 |  |
+| 1963/64 |  |
+| 1964/65 |  |
+| 1965/66 |  |
+| 1966/67 |  |
+| 1967/68 | Bey Vaughan |
+| 1968/69 | Alan Matthews / Adrian Bourke |
+| 1969/70 | Joe Revington |
+| 1970/71 | Eugene Murray |
+| 1971/72 |  |
+| 1972/73 |  |
+| 1973/74 |  |
+| 1974/75 | David Vipond |
+| 1975/76 |  |
+| 1976/77 |  |
+| 1977/78 | Ian Wilson |
+| 1978/79 |  |
+| 1979/80 | Joe Duffy |
+| 1980/81 | Eoin Scott |
+| 1981/82 | Alex White |
+| 1982/83 | Áine Lawlor |
+| 1983/84 |  |
+| 1984/85 |  |
+| 1985/86 |  |
+| 1986/87 |  |
+| 1987/88 |  |
+| 1988/89 | Mark Little |
+| 1989/90 | Ivana Bacik |
+| 1990/91 | Ian Walton |
+| 1991/92 |  |
+| 1992/93 |  |
+| 1993/94 |  |
+| 1994/95 |  |
+| 1995/96 |  |
+| 1996/97 | Fergus Finegan |
+| 1997/98 |  |
+| 1998/99 | Adrian Langan |
+| 1999/00 | Dave Tighe |
+| 2000/01 | Rory Hearne |
+| 2001/02 | Averil Power |
+| 2002/03 | Will Priestley |
+| 2003/04 | Annie Gatling |
+| 2004/05 | Francis Kieran |
+| 2005/06 | John Mannion |
+| 2006/07 | David Quinn |
+| 2007/08 | Andrew Byrne |
+| 2008/09 | Cathal Reilly |
+| 2009/10 | Cónán Ó Broin |
+| 2010/11 | Nikolai Trigoub-Rotnem |
+| 2011/12 | Ryan Bartlett |
+| 2012/13 | Rory Dunne |
+| 2013/14 | Tom Lenihan |
+| 2014/15 | Domhnall McGlacken-Byrne |
 | 2015/16 | Lynn Ruane |
 | 2016/17 | Kieran McNulty |
 | 2017/18 | Kevin Keane |
-| 2018/19 |  |
+| 2018/19 | Shane De Rís |
 | 2019/20 | Laura Beston |
 | 2020/21 | Eoin Hand |
 | 2021/22 | Leah Keogh |
@@ -35,6 +94,61 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 
 | Academic Year | Education Officer |
 |---|---|
+| 1960/61 | |
+| 1961/62 | |
+| 1962/63 | |
+| 1963/64 | |
+| 1964/65 | |
+| 1965/66 | |
+| 1966/67 | |
+| 1967/68 | |
+| 1968/69 | |
+| 1969/70 | |
+| 1970/71 | |
+| 1971/72 | |
+| 1972/73 | |
+| 1973/74 | |
+| 1974/75 | |
+| 1975/76 | |
+| 1976/77 | |
+| 1977/78 | |
+| 1978/79 | |
+| 1979/80 | Alex White (Deputy President) |
+| 1980/81 | |
+| 1981/82 | |
+| 1982/83 | |
+| 1983/84 | |
+| 1984/85 | |
+| 1985/86 | |
+| 1986/87 | |
+| 1987/88 | |
+| 1988/89 | |
+| 1989/90 | |
+| 1990/91 | |
+| 1991/92 | |
+| 1992/93 | |
+| 1993/94 | |
+| 1994/95 | |
+| 1995/96 | |
+| 1996/97 | |
+| 1997/98 | |
+| 1998/99 | |
+| 1999/00 | |
+| 2000/01 | Averil Power |
+| 2001/02 | |
+| 2002/03 | |
+| 2003/04 | |
+| 2004/05 | |
+| 2005/06 | |
+| 2006/07 | Robert Kearns |
+| 2007/08 | |
+| 2008/09 | Hugh Sullivan |
+| 2009/10 | Ashley Cooke |
+| 2010/11 | Jennifer Fox |
+| 2011/12 | Rachel Barry |
+| 2012/13 | Daniel Ferrick |
+| 2013/14 | Jack Leahy |
+| 2014/15 | Katie Byrne |
 | 2015/16 | Molly Kenny |
 | 2016/17 | Dale O'Faoilléacháin |
 | 2017/18 | Alice MacPherson |
@@ -54,6 +168,61 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 
 | Academic Year | Welfare & Equality Officer |
 |---|---|
+| 1960/61 | |
+| 1961/62 | |
+| 1962/63 | |
+| 1963/64 | |
+| 1964/65 | |
+| 1965/66 | |
+| 1966/67 | |
+| 1967/68 | |
+| 1968/69 | |
+| 1969/70 | |
+| 1970/71 | Jim Hamilton|
+| 1971/72 | Kathy Gilfillan |
+| 1972/73 | Peter Bradley |
+| 1973/74 | |
+| 1974/75 | |
+| 1975/76 | |
+| 1976/77 | |
+| 1977/78 | |
+| 1978/79 | |
+| 1979/80 | |
+| 1980/81 | |
+| 1981/82 | |
+| 1982/83 | |
+| 1983/84 | |
+| 1984/85 | |
+| 1985/86 | |
+| 1986/87 | |
+| 1987/88 | |
+| 1988/89 | |
+| 1989/90 | |
+| 1990/91 | |
+| 1991/92 | |
+| 1992/93 | |
+| 1993/94 | |
+| 1994/95 | |
+| 1995/96 | |
+| 1996/97 | |
+| 1997/98 | |
+| 1998/99 | |
+| 1999/00 | |
+| 2000/01 | |
+| 2001/02 | |
+| 2002/03 | |
+| 2003/04 | |
+| 2004/05 | |
+| 2005/06 | |
+| 2006/07 | Denise Keogh |
+| 2007/08 | |
+| 2008/09 | Órlaith Foley |
+| 2009/10 | Ciarán Cashman |
+| 2010/11 | Stephanie Fleming |
+| 2011/12 | Louisa Miller |
+| 2012/13 | Aisling Ní Chonaire |
+| 2013/14 | Stephen Garry |
+| 2014/15 | Ian Mooney |
 | 2015/16 | Conor Clancy |
 | 2016/17 | Aoibhinn Ní Lochlainn |
 | 2017/18 | Damien McClean |
@@ -73,6 +242,12 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 
 | Academic Year | Communications & Marketing Officer |
 |---|---|
+| 2009/10 | Robert Donohoe |
+| 2010/11 | |
+| 2011/12 | Ronan Costello |
+| 2012/13 | Owen Bennett |
+| 2013/14 | Leanna Byrne |
+| 2014/15 | Samuel Riggs |
 | 2015/16 | Aifric Ní Chríodáin |
 | 2016/17 | Glen Byrne |
 | 2017/18 | Úna Harty |
@@ -92,6 +267,61 @@ This record compiles the known executive officers of Trinity College Dublin Stud
 
 | Academic Year | Ents Officer |
 |---|---|
+| 1960/61 | |
+| 1961/62 | |
+| 1962/63 | |
+| 1963/64 | |
+| 1964/65 | |
+| 1965/66 | |
+| 1966/67 | |
+| 1967/68 | |
+| 1968/69 | |
+| 1969/70 | |
+| 1970/71 | |
+| 1971/72 | |
+| 1972/73 | |
+| 1973/74 | |
+| 1974/75 | |
+| 1975/76 | |
+| 1976/77 | |
+| 1977/78 | Paul Tipping |
+| 1978/79 | |
+| 1979/80 | |
+| 1980/81 | |
+| 1981/82 | |
+| 1982/83 | |
+| 1983/84 | |
+| 1984/85 | |
+| 1985/86 | |
+| 1986/87 | |
+| 1987/88 | |
+| 1988/89 | |
+| 1989/90 | |
+| 1990/91 | |
+| 1991/92 | |
+| 1992/93 | |
+| 1993/94 | |
+| 1994/95 | |
+| 1995/96 | |
+| 1996/97 | |
+| 1997/98 | |
+| 1998/99 | |
+| 1999/00 | |
+| 2000/01 | |
+| 2001/02 | |
+| 2002/03 | |
+| 2003/04 | |
+| 2004/05 | |
+| 2005/06 | |
+| 2006/07 | Barry Murphy |
+| 2007/08 | |
+| 2008/09 | |
+| 2009/10 | |
+| 2010/11 | |
+| 2011/12 | Chris O'Connor |
+| 2012/13 | David Whelan |
+| 2013/14 | Sean Reynolds |
+| 2014/15 | Finn Murphy |
 | 2015/16 | Katie Cogan |
 | 2016/17 | Padraic Rowley |
 | 2017/18 | Jonah Craig |
