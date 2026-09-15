@@ -1,8 +1,12 @@
 # PSU/PSA Officer History
 
-A historical listing of UL Postgraduate Student Union, formerly UL Postgraduate Student Association, full time officers from 2002 to present.
+A historical listing of the full-time officers of the UL Postgraduate Students’ Union (PSU), formerly the UL Postgraduate Students’ Association (PSA), from 2002 to the present.
 
 ## About
+
+This record compiles the known full-time officers of the Postgraduate Students’ Union and its predecessor, the Postgraduate Students’ Association, from 2002 to the present.
+
+The PSU previously operated with a greater degree of organisational independence. It is now more integrated with the University of Limerick and the Overall Students’ Union (ULSL), with all website and services operating through UL systems and its office space provided through ULSL.
 
 This record compiles the known officers of the Postgraduate Students’ Union and its predecessors (PSA) from 2002 to present.
 
@@ -40,6 +44,7 @@ This record compiles the known officers of the Postgraduate Students’ Union an
 | 2023/24 | Roger DeSilva |
 | 2024/25 | Lucy Kiza |
 | 2025/26 | Mahdi Nohtani |
+| 2026/27 | Abdul-Majeed Musah |
 
 ### Vice President Academic (2015–)
 
@@ -56,6 +61,7 @@ This record compiles the known officers of the Postgraduate Students’ Union an
 | 2023/24 | Benita Benjamin Victor |
 | 2024/25 | Mahdi Nohtani |
 | 2025/26 | Abdul-Majeed Musah |
+| 2026/27 | Nicholas Asampana |
 
 ### Vice President Engagement (2023–)
 
@@ -64,3 +70,4 @@ This record compiles the known officers of the Postgraduate Students’ Union an
 | 2023/24 | Edana Flynn |
 | 2024/25 | Celina Papendorf |
 | 2025/26 | Muhammed Adnaan |
+| 2026/27 | Hamza Salha |
