@@ -6,7 +6,7 @@ A historical listing of Comhaltas na Mac Léinn, Ollscoil na Gaillimhe (Universi
 
 This record compiles the known executive officers of the Comhaltas na Mac Léinn, Ollscoil na Gaillimhe from 1964 to present.
 
-**Sources:** compiled from archived versions of su.universityofgalway.ie, personal records, and alumni input.  
+**Sources:** compiled from archived versions of su.universityofgalway.ie, and alumni input.  
 
 ---
 
