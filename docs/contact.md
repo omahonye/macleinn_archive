@@ -11,4 +11,4 @@ Requests should include:
 - The specific information in question
 - A source or explanation where possible
 
-All reasonable correction requests will be reviewed.
+All reasonable correction requests will be reviewed by our team.
