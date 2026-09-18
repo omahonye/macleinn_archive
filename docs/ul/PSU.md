@@ -10,7 +10,7 @@ The PSU previously operated with a greater degree of organisational independence
 
 This record compiles the known officers of the Postgraduate Students’ Union and its predecessors (PSA) from 2002 to present.
 
-**Sources:** compiled from archived versions of personal records, UL PSU communications, and alumni input.  
+**Sources:** compiled from archived versions of relevant University records, UL PSU communications, and alumni input.  
 
 ---
 
