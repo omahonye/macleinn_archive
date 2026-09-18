@@ -6,7 +6,7 @@ A historical listing of UL Students' Union and Student Life executive officers f
 
 This record compiles the known executive officers of the University of Limerick Students’ Union and its successors (NIHE Limerick SU, ULSU, ULSL) from 1972 to present.
 
-**Sources:** compiled from archived versions of ulsu.ie, ulwolves.ie, personal records, UL Student Life communications, and alumni input.  
+**Sources:** compiled from archived versions of ulsu.ie, ulwolves.ie, UL Student Life media releases, and alumni input.  
 
 ---
 
